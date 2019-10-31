@@ -34,7 +34,7 @@ class OnlineTest extends JFrame implements ActionListener
         jb[2].setBounds(50,140,100,20);  
         jb[3].setBounds(50,170,100,20);  
         b1.setBounds(100,240,100,30);  
-        b2.setBounds(270,240,100,30);  
+        b2.setBounds(270,240,10,30);  
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
         setLayout(null);  
         setLocation(250,100);  
